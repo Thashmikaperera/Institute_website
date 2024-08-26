@@ -26,7 +26,7 @@ const toggleMenu = ()=>{
         <li><Link to="program" smooth={true} offset={-230} duration={500}>Lecturers</Link></li>
         <li><Link to="about" smooth={true} offset={-190} duration={500}>About</Link></li>
         <li><Link to="gallery" smooth={true} offset={-300} duration={500}>Gallery</Link></li>
-        <li><Link to="testimonials" smooth={true} offset={-210} duration={500}>Testimonials</Link></li>
+        <li><Link to="testimonials" smooth={true} offset={-190} duration={500}>Testimonials</Link></li>
         <li><Link to="contact" smooth={true} offset={-230} duration={500} className='btn'>Contact us</Link></li>
        </ul>
        <img src={menu_icon} className='menu_icon' onClick={toggleMenu}/>

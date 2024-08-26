@@ -36,8 +36,8 @@ const Contact = () => {
     <div className='contact'>
         <div className='contact-col'>
             <h3>Send a message <img src={massage_icon}/></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut autem in quaerat voluptas, tempora eius, corporis 
-                amet voluptate repellat culpa atque explicabo maxime quasi obcaecati placeat quae ab officiis natus?</p>
+            <p>Give us a call or drop by anytime, we endeavour to answer all enquiries 
+              within 24 hours on business days. We will be happy to answer your questions.</p>
             <ul>
                 <li><img src={msg_icon}/>pthashmika@gmal.com</li>
                 <li><img src={contact_icon}/>+94 75 720 6813</li>
